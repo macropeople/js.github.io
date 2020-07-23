@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://js.cards/sitemap.xml
